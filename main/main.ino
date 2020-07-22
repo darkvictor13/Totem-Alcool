@@ -16,7 +16,7 @@
 #define MAX_DISTANCE 40 // Distância maxima aceita
 #define WARM_UP_TIME 3 // 300 // Tempo de aquecimento do sensor de alcool em segundos
 #define TIME_BETWEEN_READS 100 // Tempo de espera entre leituras consecutivas, em milisegundos
-#define MIN_WASH_TIME 10 // Tempo minimo de lavado das mãos em segundos
+#define MIN_WASH_TIME 5 // Tempo minimo de lavado das mãos em segundos
 #define NUMBER_OF_READS 3 // Número de leituras tomas para calcular a medias
 #define SENSIVILITY 20 // Diferença entre medias consecutivas que caraterizam uma subida ou descida do nicel de alcool
 #define TOLERANCE 2 // Valor aceito como decresimo no nivel de alcool
